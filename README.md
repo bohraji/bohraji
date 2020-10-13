@@ -1,16 +1,22 @@
-### Hi there 👋
+Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media, talks and blog posts.
 
-<!--
-**bohraji/bohraji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/TusharSBohra"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
+<a href="https://instagram.com/bohra_ji"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
+<a href="https://www.linkedin.com/in/tushar-bohra/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📰 Talks
+
+- [Building Scalable Applications for Nonprofits in Laravel](https://coloredcow.com/talks/laravel/how-we-built-scalable-application-in-laravel/)
+
+<hr/>
+
+### 📰 Blog Posts
+
+- [How a cloud-based platform built with open source technologies empowered non-profits](https://coloredcow.com/case-studies/how-a-cloud-based-platform-built-with-open-source-technologies-empowered-nonprofits/)
+- [Cultivating a culture with values and shared beliefs](https://coloredcow.com/culture-with-values-and-shared-beliefs/)
+
+<hr/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bohraji&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohraji&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
