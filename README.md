@@ -1,4 +1,4 @@
-Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media, talks and blog posts.
+Hello! I love building softwares and enabling others to make it happen. I am Technical Manager at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media, talks and blog posts.
 
 <a href="https://twitter.com/TusharSBohra"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
 <a href="https://instagram.com/bohra_ji"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
